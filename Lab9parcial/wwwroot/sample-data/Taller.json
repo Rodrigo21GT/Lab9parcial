@@ -1,0 +1,22 @@
+{
+  {
+    "Codigo": "t1",
+    "Nombre": "Fisica",
+    "Precio": 110
+  },
+
+  {
+    "Codigo": "t2",
+    "Nombre": "Programacion",
+    "Precio": 1120
+  },
+
+  {
+    "Codigo": "t3",
+    "Nombre": "Matematicas",
+    "Precio": 120
+
+  }
+
+
+}
